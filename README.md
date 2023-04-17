@@ -10,7 +10,7 @@
 #### Top Repositories<img height="60" src="https://gifdb.com/images/high/cute-wave-small-fox-06runm73dcrrg9ea.gif"/> 
 
 
-<a href="https://github.com/iTarley/TBC_Course_Exam" >
+<a href="https://github.com/iTarley/TBC_Final" >
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=iTarley&repo=TBC_Final&theme=buefy" />
 </a>
 
