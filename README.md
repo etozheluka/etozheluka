@@ -7,16 +7,16 @@
 [![](https://img.shields.io/badge/-Steam-332B40?style=flat-square)](https://steamcommunity.com/id/iMomonga/)
 [![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square)](https://discordapp.com/users/Momonga#9220)
 
-#### Top Repositories
+#### Top Repositories<img height="60" src="https://gifdb.com/images/high/cute-wave-small-fox-06runm73dcrrg9ea.gif"/> 
 
 
-<a href="https://github.com/iTarley/TBC_Course_Exam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iTarley&repo=TBC_Final&theme=buefy" />
+<a href="https://github.com/iTarley/TBC_Course_Exam" >
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=iTarley&repo=TBC_Final&theme=buefy" />
 </a>
 
 
 <a href="https://github.com/iTarley/TBC_Course_Exam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iTarley&repo=TBC_Course_Exam&theme=buefy" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=iTarley&repo=TBC_Course_Exam&theme=buefy" />
 </a>
 
 <br />
