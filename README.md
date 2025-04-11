@@ -1,9 +1,6 @@
 <img align="right" height="500" width="270" src="https://media1.tenor.com/m/mfH2YPHAO7gAAAAd/luffy-crying-in-the-rain.gif"  />
 
 ###
-<a href="https://wakatime.com/@018bb83d-4cd4-44a8-8836-b0404913d231"><img src="https://wakatime.com/badge/user/018bb83d-4cd4-44a8-8836-b0404913d231.svg" alt="Total time coded since Nov 10 2023" /></a>
-
-###
 <strong>About Me</strong>  
 <h5 align="left">I'm an Android Developer from Georgia with experience in designing and implementing modern mobile applications. Passionate about building high-quality, scalable, and efficient apps using Kotlin, Jetpack Compose, and follow best practices.</h5>
 
@@ -22,3 +19,6 @@
 </div>
 
 ###
+
+###
+<a href="https://wakatime.com/@018bb83d-4cd4-44a8-8836-b0404913d231"><img src="https://wakatime.com/badge/user/018bb83d-4cd4-44a8-8836-b0404913d231.svg" alt="Total time coded since Nov 10 2023" /></a>
